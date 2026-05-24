@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Origami Archive</title>
+    <style>
+        /* 無骨な黒背景・白文字のスタイル（好みに応じて変更可） */
+        body {
+            background-color: #121212;
+            color: #e0e0e0;
+            font-family: monospace; /* 等幅フォントでより無骨に */
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 { border-bottom: 2px solid #333; padding-bottom: 10px; }
+        .post { margin-bottom: 50px; padding-bottom: 30px; border-bottom: 1px dashed #444; }
+        .meta { color: #aaa; list-style: none; padding-left: 0; }
+        .memo { background: #1e1e1e; padding: 15px; border-left: 4px solid #555; }
+        img { max-width: 100%; height: auto; display: block; margin-top: 15px; }
+    </style>
+</head>
+<body>
+
+    <h1>Origami Record</h1>
+
+    <!-- 💡 ここから作品1つ分のブロック（新しい順に上に書き足していく） -->
+    <div class="post">
+        <h2>01. 作品名やキャラクター名</h2>
+        <ul class="meta">
+            <li><strong>日付:</strong> 2026年5月24日</li>
+            <li><strong>仕様:</strong> 32x32 grid / 雲竜紙</li>
+        </ul>
+        <div class="memo">
+            <strong>備忘録・反省点:</strong><br>
+            ここに折り方のコツや、糊付けのタイミング、失敗した部分などのメモを自由に書きます。
+        </div>
+        <!-- 写真のファイル名を指定 -->
+        <img src="images/photo01.jpg" alt="作品写真">
+    </div>
+    <!-- 💡 ブロックここまで -->
+
+</body>
+</html>
