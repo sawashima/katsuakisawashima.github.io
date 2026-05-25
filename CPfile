@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>作品詳細 - 備忘録</title>
+    <style>
+        body {
+            background-color: #121212;
+            color: #e0e0e0;
+            font-family: monospace;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 { border-bottom: 2px solid #333; padding-bottom: 10px; }
+        .step { margin-bottom: 40px; padding: 15px; background: #1e1e1e; border-left: 4px solid #deff9a; }
+        img { max-width: 100%; height: auto; display: block; margin-top: 15px; }
+        .back-link { display: inline-block; margin-top: 30px; color: #deff9a; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+
+    <h1>作品名（ここにタイトル）</h1>
+    <p>制作日: 2026/05/25 | 仕様: 32x32 grid</p>
+
+    <div class="step">
+        <h3>工程 01: 仕込み</h3>
+        <p>ここに制作途中のメモを書きます（例：グリッド線を折る段階で紙がよれないように注意した、など）。</p>
+        <img src="images/step01.jpg" alt="工程01の写真">
+    </div>
+
+    <div class="step">
+        <h3>工程 02: 中盤の畳み込み</h3>
+        <p>ここにメモを書きます。</p>
+        <img src="images/step02.jpg" alt="工程02の写真">
+    </div>
+
+    <a href="index.html" class="back-link">← アーカイブ一覧に戻る</a>
+
+</body>
+</html>
