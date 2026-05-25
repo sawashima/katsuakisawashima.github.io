@@ -56,6 +56,13 @@
         <!-- 写真のファイル名を指定 -->
         <img src="images/photo01.jpg" alt="作品写真">
     </div>
+    <div class="post">
+        <h2>01. 作品名</h2>
+        <p><a href="project01.html" style="color: #deff9a;">→ 制作過程と詳細メモを見る</a></p>
+        
+        <ul class="meta">
+            <li><strong>日付:</strong> 2026年5月24日</li>
+        </ul>
     <!-- 💡 ブロックここまで -->
 
 </body>
