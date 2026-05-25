@@ -28,10 +28,10 @@
 
     <!-- 💡 ここから作品1つ分のブロック（新しい順に上に書き足していく） -->
     <div class="post">
-        <h2>01. 作品名やキャラクター名</h2>
+        <h2>01. 庭渡久侘歌（東方鬼形獣３面）</h2>
         <ul class="meta">
             <li><strong>日付:</strong> 2026年5月24日</li>
-            <li><strong>仕様:</strong> 32x32 grid / 雲竜紙</li>
+            <li><strong>仕様:</strong> 48x48 grid / 障子紙　470mm四方正方形　一枚</li>
         </ul>
         <div class="memo">
             <strong>備忘録・反省点:</strong><br>
