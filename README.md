@@ -28,6 +28,19 @@
 
     <!-- 💡 ここから作品1つ分のブロック（新しい順に上に書き足していく） -->
     <div class="post">
+        <h2>02. 新しい作品名</h2>
+        <ul class="meta">
+            <li><strong>日付:</strong> 2026年6月1日</li>
+            <li><strong>仕様:</strong> 50x50 grid / カラペラピス</li>
+        </ul>
+        <div class="memo">
+            <strong>備忘録・反省点:</strong><br>
+            背中の沈め折りが厚みで破けそうになった。次は120度きっちり折り目をつけてから沈めること。
+        </div>
+        <img src="images/photo02.jpg" alt="作品写真">
+    </div>
+    
+    <div class="post">
         <h2>01. 庭渡久侘歌（東方鬼形獣３面）</h2>
         <ul class="meta">
             <li><strong>日付:</strong> 2026年5月24日</li>
