@@ -28,16 +28,16 @@
 
     <!-- 💡 ここから作品1つ分のブロック（新しい順に上に書き足していく） -->
     <div class="post">
-        <h2>02. 新しい作品名</h2>
+        <h2>02. 今泉影狼(東方輝針城3面)</h2>
         <ul class="meta">
-            <li><strong>日付:</strong> 2026年6月1日</li>
-            <li><strong>仕様:</strong> 50x50 grid / カラペラピス</li>
+            <li><strong>日付:</strong> 2026年覚えてない</li>
+            <li><strong>仕様:</strong> 48x48 grid /障子紙　470mm四方正方形　一枚</li>
         </ul>
         <div class="memo">
             <strong>備忘録・反省点:</strong><br>
-            背中の沈め折りが厚みで破けそうになった。次は120度きっちり折り目をつけてから沈めること。
+            作成中　本番では色を付ける予定
         </div>
-        <img src="images/photo02.jpg" alt="作品写真">
+        <img src="images/photo03.jpg" alt="作品写真">
     </div>
     
     <div class="post">
@@ -55,6 +55,7 @@
         </div>
         <!-- 写真のファイル名を指定 -->
         <img src="images/photo01.jpg" alt="作品写真">
+        <img src="images/photo02.jpg" alt="作品写真">
     </div>
     <div class="post">
         <h2>01. 作品名</h2>
