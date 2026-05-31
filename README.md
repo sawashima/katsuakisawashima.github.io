@@ -35,10 +35,19 @@
         </ul>
         <div class="memo">
             <strong>備忘録・反省点:</strong><br>
-            作成中　本番では色を付ける予定
+            頭部は気に入っているけど、そのほかが紙の領域が少なくてペラペラすぎるので要改善
+            色が薄すぎて赤色が見にくい
         </div>
         <img src="images/photo03.jpg" alt="作品写真">
+        <img src="images/photo04.jpg" alt="作品写真">
     </div>
+    <div class="post">
+        <h2>02.影狼</h2>
+        <p><a href="project01.html" style="color: #deff9a;">→ 制作過程メモ</a></p>
+        
+        <ul class="meta">
+            <li><strong>日付:</strong> 2026年5月24日</li>
+        </ul>
     
     <div class="post">
         <h2>01. 庭渡久侘歌（東方鬼形獣３面）</h2>
@@ -58,8 +67,8 @@
         <img src="images/photo02.jpg" alt="作品写真">
     </div>
     <div class="post">
-        <h2>01. 作品名</h2>
-        <p><a href="project01.html" style="color: #deff9a;">→ 制作過程と詳細メモを見る</a></p>
+        <h2>01.久侘歌 </h2>
+        <p><a href="project01.html" style="color: #deff9a;">→ 制作過程メモ</a></p>
         
         <ul class="meta">
             <li><strong>日付:</strong> 2026年5月24日</li>
